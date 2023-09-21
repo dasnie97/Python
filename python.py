@@ -6,7 +6,4 @@ files = FileLoader.GetFiles(config.inputDir)
 for file in files:
     print(file)
 
-dict = {
-    "apple" : "red"
-    "banana" : "yellow"
-}
+dict = {"apple": "red", "banana": "yellow"}
